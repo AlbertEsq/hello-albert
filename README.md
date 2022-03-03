@@ -1,7 +1,7 @@
 # hello-albert
 
-My first repo on GitHub 
+This is My first repo on GitHub 
 
-I love :coffee: :lawyer: and :pizza:.
+I love :coffee: :dancer: and :pizza:.
 
 
